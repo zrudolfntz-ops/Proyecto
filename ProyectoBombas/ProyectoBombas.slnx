@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" />
+  <Project Path="ProyectoBombas/ProyectoBombas.csproj" />
+</Solution>
