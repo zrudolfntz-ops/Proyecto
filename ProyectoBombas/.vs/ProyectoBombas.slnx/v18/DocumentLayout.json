@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kenet\\Downloads\\GitHub\\Proyecto\\ProyectoBombas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCE5E108-CB11-4CE7-8D57-187304D06BC2}|ProyectoBombas\\ProyectoBombas.csproj|c:\\users\\kenet\\downloads\\github\\proyecto\\proyectobombas\\proyectobombas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCE5E108-CB11-4CE7-8D57-187304D06BC2}|ProyectoBombas\\ProyectoBombas.csproj|solutionrelative:proyectobombas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D241058-790D-9908-1DD6-94AFF71F1E6B}|ProyectoBombas\\ProyectoBombas.csproj|c:\\users\\kenet\\downloads\\github\\proyecto\\proyectobombas\\proyectobombas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D241058-790D-9908-1DD6-94AFF71F1E6B}|ProyectoBombas\\ProyectoBombas.csproj|solutionrelative:proyectobombas\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kenet\\Downloads\\GitHub\\Proyecto\\ProyectoBombas\\ProyectoBombas\\Form1.cs",
-              "RelativeDocumentMoniker": "ProyectoBombas\\Form1.cs",
-              "ToolTip": "C:\\Users\\kenet\\Downloads\\GitHub\\Proyecto\\ProyectoBombas\\ProyectoBombas\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBombas\\Form1.cs [Dise\u00F1o]",
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kenet\\Downloads\\GitHub\\Proyecto\\ProyectoBombas\\ProyectoBombas\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoBombas\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\kenet\\Downloads\\GitHub\\Proyecto\\ProyectoBombas\\ProyectoBombas\\FrmPrincipal.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ProyectoBombas\\FrmPrincipal.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T21:14:35.575Z",
               "EditorCaption": " [Dise\u00F1o]"
