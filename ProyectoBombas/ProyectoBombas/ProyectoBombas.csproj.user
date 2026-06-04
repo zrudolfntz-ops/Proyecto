@@ -4,7 +4,22 @@
     <Compile Update="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UC_Abastecimiento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Arduino.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Bombas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Historial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Reportes.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
