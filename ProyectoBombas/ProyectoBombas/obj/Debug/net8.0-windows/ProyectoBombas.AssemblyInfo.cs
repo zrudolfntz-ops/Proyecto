@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoBombas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cb81923dafa987a60ce21b56c5e3241e2da8f87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef166e2a8369a21ccc910fe43d645ec6606ba2ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoBombas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoBombas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
